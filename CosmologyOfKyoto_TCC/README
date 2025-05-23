@@ -1,5 +1,5 @@
 1. Download Cosmology of Kyoto from The Collection Chamber and install it.
-2. Extract this zip file's contents to the game's root folder.
+2. Extract contents of CosmologyOfKyoto_TCC to the game's root folder.
 3. Download the latest DOSBox-X portable install from DOSBox-X github, and extract the contents of mingw-sdl2 in the DOSBox-X folder.
 4. Click on LaunchCOK.bat to launch the game.
 5. Enjoy !
