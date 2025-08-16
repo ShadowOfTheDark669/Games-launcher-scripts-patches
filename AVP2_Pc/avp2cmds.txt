@@ -1,0 +1,1 @@
+-windowtitle "Aliens vs. Predator 2" -rez AVP2.rez -rez sounds.rez -rez Alien.rez -rez Marine.rez -rez Predator.rez -rez Multi.rez -rez AVP2dll.rez -rez AVP2l.rez -rez custom -rez AVP2p.rez -rez AVP2p2.rez -rez AVP2P1.REZ -rez AVP2SP.REZ -rez avp2p5.rez  +DisableMusic 0 +DisableSound 0 +EnableTripBuf 1 +DisableHardwareCursor 0  
