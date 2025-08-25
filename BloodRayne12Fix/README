@@ -1,1 +1,2 @@
-Extract the contents of the zip file in the root of the game directory and enjoy !
+Convert the "Cutscene Bat To Exe.bat" in the video directory to "Cutscene.exe" using BatToExe
+Unzip mpv windows x64_x86 binaries in the video/mpv folder with the mpv binary named as "mpv.exe"
