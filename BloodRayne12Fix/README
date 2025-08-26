@@ -1,2 +1,4 @@
 Convert the "Cutscene Bat To Exe.bat" in the video directory to "Cutscene.exe" using BatToExe
 Unzip mpv windows x64_x86 binaries in the video/mpv folder with the mpv binary named as "mpv.exe"
+
+d3d8.dll, dxwrapper.dll and dxwrapper.ini are from elishacloud's Dxwrapper Project: https://github.com/elishacloud/dxwrapper
