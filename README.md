@@ -1,7 +1,7 @@
 # Games-launcher-scripts-patches
 ## A set of small and simple scripts/patches for games on Windows and/OR Linux (WINE) that add QOL improvements/additions
 
-# Note:
+# <ins>Note:</ins>
 The executables are often flagged as malware from Chrome, Firefox or antiviruses. This is a false positive !
 
 # Credits
