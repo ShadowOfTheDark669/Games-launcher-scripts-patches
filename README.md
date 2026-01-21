@@ -14,6 +14,6 @@ The executables are often flagged as malware from Chrome, Firefox or antiviruses
 3. Open the bat file in the  `BatToExe` tool.
 4. Ensure the configuration on the right pane is as follows:
    <img width="409" height="577" alt="2026-01-21_11-35" src="https://github.com/user-attachments/assets/98f90d00-02e0-4fab-94f4-26cb027a4e3d" />
-5. Tick the icon checkbox if an `.ico` file was downloaded
+5. Tick the icon checkbox if an `.ico` file was downloaded and select the `.ico` file.
 6. Click on convert and save the converted `.exe file`
 7. The file produced should be identical to the final release of this repo.
